@@ -6,7 +6,9 @@ Assume that this class will be used for some sort of war-game or simulation prog
 and that these named points will be used to represent things like cities, battlefields, etc.
 
 There are two diff way of implementation of the same task. 
+
 NamedPoint :
- TODO:
+
 NamedPoint-1 :
- TODO:
+
+
